@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kittu MS
 - 👀 I’m interested in ...IT-Software
 - 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...Java with Angular
+- 💞️ I’m looking to collaborate on ...Java Backend with Spring-Boot
 - 📫 How to reach me ... msnjul1997@gmail.com
 
 <!---
